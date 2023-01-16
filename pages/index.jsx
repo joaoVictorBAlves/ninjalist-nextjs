@@ -8,6 +8,7 @@ const Home = () => {
       <Head>
         <title>Ninja List | Home</title>
         <meta name="keywords" content="ninjas" />
+        <meta charSet="utf-8"/>
       </Head>
 
       <div className="conteiner">
